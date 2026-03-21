@@ -205,6 +205,7 @@ export default function Home() {
       <footer className="footer">
         <p className="footer-copy">© 2026 HansThill. Handcrafted in Brazil.</p>
         <div className="footer-links">
+          <a href="https://www.fiverr.com/hansthill" target="_blank" rel="noopener noreferrer">Fiverr</a>
           <a href="mailto:Hanspro.030@gmail.com">Email</a>
         </div>
       </footer>
