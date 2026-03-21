@@ -190,6 +190,13 @@ export default function Home() {
                 Hanspro.030@gmail.com
               </div>
             </a>
+            <a href="https://www.fiverr.com/hansthill" target="_blank" rel="noopener noreferrer" className="contact-link">
+              <span className="contact-link-icon">⚡</span>
+              <div>
+                <span className="contact-link-label">Fiverr</span>
+                fiverr.com/hansthill
+              </div>
+            </a>
           </div>
         </div>
       </section>
